@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# node / python / general
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Node package logs
+npm-debug.log
+yarn-error.log
+
+# mac binary icons / DS pref
+.Thumbs.db
+# IDE
+.vscode/
+.idea/
